@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608260087672",
+    "firebase_url": "https://mad-lms.firebaseio.com",
+    "project_id": "mad-lms",
+    "storage_bucket": "mad-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608260087672:android:e10c836d16354ee074b28d",
+        "android_client_info": {
+          "package_name": "com.mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608260087672-ndtc1eonf5i3e1abmgiupecqqen6p48u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72zeSxe3Kf_xGIke9eTYkP0XfMQL_sw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608260087672-ndtc1eonf5i3e1abmgiupecqqen6p48u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
